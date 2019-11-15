@@ -51,3 +51,6 @@ p::first-letter {
   color: magenta;
 }
 /* Task 4 */
+h2 + p::first-line {
+  color: blue;
+}
