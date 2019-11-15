@@ -47,5 +47,7 @@ button:active {
 }
 
 /* Task 3 */
-
+p::first-letter {
+  color: magenta;
+}
 /* Task 4 */
