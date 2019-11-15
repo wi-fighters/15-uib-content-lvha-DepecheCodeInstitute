@@ -20,6 +20,21 @@ button {
 
 
 /* Task 1 */
+a:link {
+  color: greenyellow;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color:magenta;
+}
+
+a:active {
+  color:blue;
+}
 
 /* Task 2 */
 
