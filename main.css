@@ -36,6 +36,7 @@ a:active {
   color:blue;
 }
 
+/* Task 2 */
 button:hover {
   background-color: green;
 }
@@ -44,8 +45,6 @@ button:active {
   background-color: blue;
   /* I suspect this doesn't show any effect at the mooment because clicking the button currently has no effect */
 }
-
-/* Task 2 */
 
 /* Task 3 */
 
